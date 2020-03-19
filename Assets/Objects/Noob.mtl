@@ -1,0 +1,44 @@
+newmtl Torso1Mtl
+Material Color
+Ka 0.0111261 0.0869013 0.493616
+Kd 0.0111261 0.0869013 0.493616
+Ks 0.00449406 0.0351013 0.199382 
+
+d 1
+
+Ns 0
+
+newmtl RightLeg1Mtl
+Material Color
+Ka 0.363604 0.560499 0.267358
+Kd 0.363604 0.560499 0.267358
+Ks 0.146867 0.226398 0.107992 
+
+d 1
+
+Ns 0
+
+newmtl Head2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.403922 0.403922 0.403922 
+
+d 1
+
+Ns 0
+
+map_Ka Head2Tex.png
+map_Kd Head2Tex.png
+map_d Head2Tex.png
+
+newmtl RightArm1Mtl
+Material Color
+Ka 0.91575 0.618686 0.0253713
+Kd 0.91575 0.618686 0.0253713
+Ks 0.369891 0.249901 0.010248 
+
+d 1
+
+Ns 0
+
