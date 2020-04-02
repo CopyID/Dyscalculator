@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="802869a0-0836-4138-a274-ae512e0b36f3" name="Default Changelist" comment="" />
+    <list default="true" id="802869a0-0836-4138-a274-ae512e0b36f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dyscalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Game.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Game.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Scores.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Scores.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Title.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Dyscalculator_Title.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpinObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Title-LAPTOP-CJOHV0E4.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChanceScene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Title.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -23,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Clock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Title.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Title-LAPTOP-CJOHV0E4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChanceScene.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +92,7 @@
       <workItem from="1583149765063" duration="2308000" />
       <workItem from="1583753651409" duration="1459000" />
       <workItem from="1583758730542" duration="891000" />
+      <workItem from="1584953338941" duration="3530000" />
     </task>
     <servers />
   </component>
@@ -84,6 +101,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
