@@ -21,6 +21,7 @@
           <e p="ChanceScene.cs" t="Include" />
           <e p="Clock.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
           <e p="SpinObject.cs" t="Include" />
           <e p="Title.cs" t="Include" />
         </e>

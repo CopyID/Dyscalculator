@@ -6,11 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class ChanceScene : MonoBehaviour
 {
-    private GameManager gameManager;
+    private gamemanager gameManager;
     // Start is called before the first frame update
     void Start()
     {
-        gameManager = GameObject.Find("Game Manager").GetComponent<GameManager>();
+        gameManager = GameObject.Find("gamemanager").GetComponent<gamemanager>();
     }
 
     private void OnMouseDown()
