@@ -13,14 +13,13 @@ public class gamemanager : MonoBehaviour
     public Text keuze1child, keuze2child, keuze3child, keuze4child;
     
     public Button restartButton;
-    public GameObject terugTxt;
     public Button keuze1, keuze2, keuze3, keuze4;
     public AudioClip goed, fout;
     private AudioSource Audio;
 
     public bool isGameActive;
 
-    float timeLeft = 3.0f;
+    float timeLeft = 300.0f;
 
    int LeftNumber, RightNumber, number, TrueAwnser, waarde, waarde1 ;
 
@@ -30,7 +29,6 @@ public class gamemanager : MonoBehaviour
         
         somFn();
         restartButton.gameObject.SetActive(false);
-        terugTxt.gameObject.SetActive(false);
         
         isGameActive = true;
         
